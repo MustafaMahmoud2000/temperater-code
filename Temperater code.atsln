@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Temperater code", "Temperater code\Temperater code.cproj", "{08CCAA1C-C55A-450A-A5E6-707B3C3BC32F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08CCAA1C-C55A-450A-A5E6-707B3C3BC32F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{08CCAA1C-C55A-450A-A5E6-707B3C3BC32F}.Debug|AVR.Build.0 = Debug|AVR
+		{08CCAA1C-C55A-450A-A5E6-707B3C3BC32F}.Release|AVR.ActiveCfg = Release|AVR
+		{08CCAA1C-C55A-450A-A5E6-707B3C3BC32F}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
